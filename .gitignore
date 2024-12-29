@@ -1,0 +1,67 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+*.env
+
+# Environment files
+.envrc
+*.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+*.out
+*.err
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test coverage
+htmlcov/
+.coverage
+.tox/
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Package manager
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Documentation
+docs/_build/
+
+# Secret files
+api.env
+*.key
+*.pem
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.orig
+*.rej
