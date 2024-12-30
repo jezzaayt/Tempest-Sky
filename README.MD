@@ -30,9 +30,6 @@ Tempest Sky is a weather application that fetches weather data for a specified c
 - dearpygui: For creating the graphical user interface.
 - geopy: For converting city names to latitude and longitude coordinates.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 
